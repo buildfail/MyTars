@@ -24,7 +24,7 @@
   ],
   "dependencies" : {
     "strftime" : "0.10.0",
-    "async" : "2.5.0",
+    "async" : "3.2.2",
     "@tars/stream" : "latest",
     "@tars/rpc" : "latest",
     "@tars/utils" : "latest"
