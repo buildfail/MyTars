@@ -21,7 +21,7 @@
     "@tars/winston-tars" : "latest",
     "@tars/utils" : "latest",
     "@tars/dyeing" : "latest",
-    "winston" : "2.4.1",
+    "winston" : "3.3.0",
     "callsite" : "1.x.x",
     "cycle": "1.0.x"
   },
