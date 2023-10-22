@@ -28,12 +28,12 @@
     <dependency>
       <groupId>com.tencent.tars</groupId>
       <artifactId>tars-spring</artifactId>
-      <version>1.6.0</version>
+      <version>1.7.3</version>
     </dependency>
     <dependency>
       <groupId>com.tencent.tars</groupId>
       <artifactId>tars-protobuf</artifactId>
-      <version>1.6.0</version>
+      <version>1.7.3</version>
     </dependency>
         <dependency>
       <groupId>com.tencent.tars</groupId>
