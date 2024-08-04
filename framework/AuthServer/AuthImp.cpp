@@ -1,7 +1,7 @@
 #include "AuthImp.h"
 #include "AuthServer.h"
 #include "servant/TarsLogger.h"
-
+#omiy taeyoungs94
 using namespace tars;
 
 std::string tableName = "t_auth_info";
