@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "echarts": "^4.0.4",
+    "echarts": "^5.5.1",
     "let-ui": "^0.1.19",
     "v-charts": "^1.16.8",
     "vue": "^2.5.2",
